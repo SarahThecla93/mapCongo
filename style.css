@@ -1,0 +1,157 @@
+body{
+	margin:auto;
+	border: 1px solid black;
+}
+
+#googleMap{
+	border: 1px solid black;
+	width: 710Rpx;
+	height:500px;
+	margin:auto;
+	margin-top:12px;
+	margin-left: 5px;
+}
+#title{
+	text-align: center;
+	background-color:blanchedalmond;
+	width: 1335px;
+	height: 30px;
+	margin:auto;
+	margin-left:0px;
+}
+#nav{
+	font-family: monospace;
+	font-size: 20px;
+
+}
+a{
+	text-decoration: none;
+}
+#foot{
+	width: 100%;
+	height: 62px;
+	background-color: cadetblue;
+	text-align: center;
+	font-family: Consolas;
+	color: sienna;
+	
+}
+
+#banniere{
+	text-align: center;
+	width: 1354px;
+	height: 50px;
+	background-color: cadetblue;
+	font-family: Consolas;
+	color: sienna;
+	margin-top: -25px;
+}
+ul li{
+	display: inline;
+}
+
+body
+{
+	background: url(images/fond.jpg) no-repeat center top;
+	background-size: cover;
+}
+nav
+{
+height : 1250px;
+float: right;
+width: 400px;
+border: 2px solid blue;
+}
+section
+{
+float: center;
+margin-right: 100px;
+border: 2px solid blue;
+height : 1250px;
+width: 900px;
+}
+
+aside
+{
+position: relative;
+width: 850px;
+height : 606px;
+background-color: #706b64;
+padding: 10px;
+font-size: 0.9em;
+text-align: center;
+}
+header
+{
+background: url(images/s.gif) no-repeat center top;
+
+height : 100px;
+border: solid 2px black;
+text-align: center;
+	
+	
+margin-top: 15px;
+height: 200px;
+
+border-radius: 5px;
+background: url('images/pont.jpg') no-repeat center top;
+position: relative;
+box-shadow: 0px 4px 4px #1c1a19;
+margin-bottom : 25px;
+}
+footer{
+background: url(images/s.gif) no-repeat center top;
+	boackground: url(images/h.png) no-repeat center top;
+	background-size: cover;
+	height : 150px;
+	border: solid 1px black;
+	text-align: center;
+	
+}
+
+footer p, footer ul
+{
+font-size: 0.8em;
+}
+footer h1
+{
+font-size: 1.1em;
+}
+
+#tweet, #mes_photos, #mes_amis
+{
+display: inline-block;
+vertical-align: top;
+}
+#tweet
+{
+width: 28%;
+}
+#mes_photos
+{
+
+width: 20px;
+}
+#mes_amis
+{
+width: 21%;
+}
+#mes_photos img
+{
+border: 1px solid #181818;
+margin-right: 1px;
+}
+#mes_amis ul
+{
+display: inline-block;
+vertical-align: top;
+margin-top: 0;
+width: 38%;
+list-style-image: url('images/d.png');
+padding-left: 1px;
+}
+#mes_amis a
+{
+text-decoration: none;
+color: #760001;
+}
